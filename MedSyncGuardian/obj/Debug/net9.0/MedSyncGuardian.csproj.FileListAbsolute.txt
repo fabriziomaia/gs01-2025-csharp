@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\bin\Debug\net9.0\MedSyncGuardian.exe
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\bin\Debug\net9.0\MedSyncGuardian.deps.json
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\bin\Debug\net9.0\MedSyncGuardian.runtimeconfig.json
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\bin\Debug\net9.0\MedSyncGuardian.dll
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\bin\Debug\net9.0\MedSyncGuardian.pdb
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.dll
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\refint\MedSyncGuardian.dll
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.pdb
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\ref\MedSyncGuardian.dll

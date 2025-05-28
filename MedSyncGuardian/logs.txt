@@ -1,0 +1,7 @@
+28/05/2025 17:54:52: Alerta emitido: Desvio de horário detectado!
+28/05/2025 17:54:53: Sincronização bem-sucedida.
+28/05/2025 17:56:25: Alerta emitido: Desvio de horário detectado!
+28/05/2025 17:56:26: Sincronização bem-sucedida.
+28/05/2025 18:01:16: Sincronização bem-sucedida.
+28/05/2025 18:01:37: Alerta emitido: Desvio de horário detectado!
+28/05/2025 18:01:38: Sincronização bem-sucedida.
