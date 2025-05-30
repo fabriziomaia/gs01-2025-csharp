@@ -12,3 +12,4 @@ C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\refin
 C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.pdb
 C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\ref\MedSyncGuardian.dll
+C:\Users\Usuario\Desktop\gs01-2025-csharp\MedSyncGuardian\obj\Debug\net9.0\MedSyncGuardian.sourcelink.json
